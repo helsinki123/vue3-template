@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2633074 */
+  src: url('iconfont.woff2?t=1624594691740') format('woff2'),
+       url('iconfont.woff?t=1624594691740') format('woff'),
+       url('iconfont.ttf?t=1624594691740') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-banquan:before {
+  content: "\e98b";
+}
+
+.icon-anquanyinsi:before {
+  content: "\e98c";
+}
+
+.icon-dicengjiagou:before {
+  content: "\e98d";
+}
+

@@ -1,0 +1,30 @@
+{
+  "id": "2633074",
+  "name": "用户中心",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "用户中心图标",
+  "glyphs": [
+    {
+      "icon_id": "18267904",
+      "name": "版权",
+      "font_class": "banquan",
+      "unicode": "e98b",
+      "unicode_decimal": 59787
+    },
+    {
+      "icon_id": "18267905",
+      "name": "安全隐私",
+      "font_class": "anquanyinsi",
+      "unicode": "e98c",
+      "unicode_decimal": 59788
+    },
+    {
+      "icon_id": "18267906",
+      "name": "底层架构",
+      "font_class": "dicengjiagou",
+      "unicode": "e98d",
+      "unicode_decimal": 59789
+    }
+  ]
+}
